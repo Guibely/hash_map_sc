@@ -2,7 +2,7 @@
 # Course: CS261 - Data Structures
 # Assignment:6
 # Due Date:12/07/2023
-# Description: implement methods for hash map separate chaining
+# Description: Implement methods for hash map separate chaining
 
 
 from a6_include import (DynamicArray, LinkedList,
